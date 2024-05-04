@@ -127,10 +127,12 @@ body {
         background-color: #45a049;
     }
 
-.foot{
-	width: 100%;
-	background-color: #004D8f;
-	height: 28%;
-	color: white;
-	font-size: 15px;
-}
+	.foot{
+		padding-left: 5%; 
+		width: 100%;
+		background-color: #004D8f;
+		height: 26%;
+		color: white;
+		font-size: 15px;
+	
+	}

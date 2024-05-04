@@ -199,9 +199,11 @@ object-fit: cover;
 }
 
 .foot{
+	padding-left: 5%; 
 	width: 100%;
 	background-color: #004D8f;
-	height: 28%;
+	height: 26%;
 	color: white;
 	font-size: 15px;
+
 }
